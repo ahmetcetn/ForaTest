@@ -1,0 +1,12 @@
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\bin\Debug\ForaTest.exe.config
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\bin\Debug\ForaTest.exe
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\bin\Debug\ForaTest.pdb
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.csprojAssemblyReference.cache
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.Form1.resources
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.Properties.Resources.resources
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.csproj.GenerateResource.cache
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.exe
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.pdb
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\bin\Debug\DbManager.dll
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\bin\Debug\DbManager.pdb
+C:\Users\Ahmet ÇETİN\Desktop\EnvanterYeni\ForaTest\ForaTest\obj\Debug\ForaTest.csproj.CopyComplete
